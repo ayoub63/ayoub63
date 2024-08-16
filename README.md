@@ -59,10 +59,4 @@ NODE.JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
  - <a href="https://ayoub63.github.io/Library/">A library</a> 📚
  - A game of <a href="https://ayoub63.github.io/Tic-Tac-Toe/">Tic-Tac-Toe</a> ❌⭕️
 
-<div align=right>
-<h3> Credits </h3>
 
-MacMini icon: [Freepik](https://www.freepik.com/) <br>
-Laptop icon: [Yliv](https://www.freepik.com/author/yliv)
-
-</div>
