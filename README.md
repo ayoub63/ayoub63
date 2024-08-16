@@ -1,23 +1,22 @@
 # profile-read-me
-<h1> Ciao! 👋 I'm Niccolò </h1>
+<h1> Hey! I'm Ayoub </h1>
 
 <ul style="list-style:none">
- <li>😄 Pronouns: He/Him</li>
- <li>⚡ Fun fact: I <b>sew</b> my own clothes</li>
- <li> 🔭 I’m currently working on <b>laying the fundamental skills for front-end developemnt</b>.</li>
+ <li>⚡ Fun fact: I <b>support</b> FC Barcelona</li>
+ <li> 🔭 I’m currently working on <b>lerning the fundamental skills for front-end  und backend developemnt</b>.</li>
 </ul>
 
 <h3>Overview</h3>
 
 <div align="center">
- <p><img align=left src="https://github-readme-stats.vercel.app/api/top-langs?username=niccostantini&show_icons=true&locale=en" alt="niccostantini" /></p>
- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=niccostantini&show_icons=true&locale=en&hide=stars" alt="niccostantini" /></p>
+ <p><img align=left src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub63&show_icons=true&locale=en" alt="ayoub63" /></p>
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoub63&show_icons=true&locale=en&hide=stars" alt="ayoub63" /></p>
 </div>
 <br><br><br><br><br><br><br><br><br>
 
 <div align=left>
 <h3>My tools and languages</h3>
-<p font-size="4"><i>Ever expanding... 😎</i></p>
+<p font-size="4"><i>Always expanding... :)</i></p>
 <p> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -31,13 +30,7 @@
  <br>
 
 <div align=right>
-<h3 >My machines</h3>
-<p align=center>
 
-&nbsp; &nbsp;<img align=center src="https://github.com/niccostantini/niccostantini/blob/main/form_12780984.png" style="vertical-align:middle" height=30 width=30>&nbsp;&nbsp;**MacBook Pro M3 (2023)** – Sonoma 14.5<br>
-&nbsp; &nbsp;<img align=center src="https://github.com/niccostantini/niccostantini/blob/main/form_12780984.png" style="vertical-align:middle" height=30 width=30>&nbsp;&nbsp;**MacBook Unibody (mid 2010)** - Ubuntu 22.04
-</div>
-</p>
 
 
 
