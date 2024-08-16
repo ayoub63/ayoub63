@@ -47,17 +47,17 @@ NODE.JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
 <b><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></b>
 
 <b>Completed</b> the _Fundamentals_ course, realising:
- - <a href="https://niccostantini.github.io/landing-page-odin-course/">Styling of a landing page</a> 📄
- - <a href="https://niccostantini.github.io/rock-paper-scissors/">A game of rock-paper-scissors</a> 💎📃✂️
+ - <a href="https://ayoub63.github.io/odin-landingpage/">Styling of a landing page</a> 📄
+ - <a href="https://ayoub63.github.io/rock-paper-scissors/">A game of rock-paper-scissors</a> 💎📃✂️
  - <a href="https://niccostantini.github.io/etch-a-sketch/">An etch-a-sketch web program</a> 🖼️🖌️
  - [Calculator with a twist](https://niccostantini.github.io/odin-calculator/) 🧮
 
 <b>Currently</b> studying the [Full Stack Javascript](https://www.theodinproject.com/paths/full-stack-javascript) curriculum, and produced:
 
  - A very camp responsive design for this <a href="https://niccostantini.github.io/odin-signup-form/">signup form</a> 📋
- - <a href="https://niccostantini.github.io/odin-admin-dashboard/">And admin dashboard design</a> (*try clicking on the watermelon logo!*) 🍉
- - <a href="https://niccostantini.github.io/odin-library/">A library</a> 📚
- - A game of <a href="https://niccostantini.github.io/tic-tac-toe/">Tic-Tac-Toe</a> ❌⭕️
+ - <a href="https://ayoub63.github.io/Admin-Dashboard/">An admin dashboard design</a>
+ - <a href="https://ayoub63.github.io/Library/">A library</a> 📚
+ - A game of <a href="https://ayoub63.github.io/Tic-Tac-Toe/">Tic-Tac-Toe</a> ❌⭕️
 
 <div align=right>
 <h3> Credits </h3>
