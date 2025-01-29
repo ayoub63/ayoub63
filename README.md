@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ayoubafkir18@gmail.com**
 
-- ⚡ Fun fact **I support FC Barcelona**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
